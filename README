@@ -17,7 +17,13 @@ Setelah itu, buatlah piramida dengan bentuk seperti ini:
 Semua fungsi di atas di tulis dengan menggunakan fungsi rekursif.
 Modifikasi dari isi file yang sudah ada. Semua yang dikerjakan, ditulis dalam
 file rekursif.php saja, jangan menambah file lagi.
-DILARANG MENGGUNAKAN FOR(), WHILE(), maupun DO WHILE()
+DILARANG MENGGUNAKAN FOR(), WHILE(), maupun DO WHILE().
+
+Karena ada 2 soal, pisahkan jawaban nomor 1 dan nomor 2 di dalam file tersebut. 
+Berikan tanda pembatas pada dua jawaban terbut dengan tanda seperti di bawah ini
+
+/*====================================================================================*/
+
 
 HINT:
 1. Jangan terpaku dengan fungsi rekursif yang sudah ada dalam file. Gunakan perintah global,
