@@ -1,0 +1,27 @@
+Diberikan sebuah fungsi rekursif yang ada dalam file rekursif.php (bisa langsung cek di file)
+
+Buatlah dengan fungsi rekursif tampilan piramida dengan bentuk seperti ini
+*****
+****
+***
+**
+*
+
+Setelah itu, buatlah piramida dengan bentuk seperti ini:
+1
+12
+123
+1234
+12345
+
+Semua fungsi di atas di tulis dengan menggunakan fungsi rekursif.
+Modifikasi dari isi file yang sudah ada. Semua yang dikerjakan, ditulis dalam
+file rekursif.php saja, jangan menambah file lagi.
+DILARANG MENGGUNAKAN FOR(), WHILE(), maupun DO WHILE()
+
+HINT:
+1. Jangan terpaku dengan fungsi rekursif yang sudah ada dalam file. Gunakan perintah global,
+   dan parameter fungsi rekursif tidak melulu harus 1 parameter (karena pada hakikatnya, itu 
+   adalah sebuah fungsi, jadi berapapun parameternya tidak dibatasi).
+2. Jika membuat piramida dengan looping biasa ada for dalam for, yang berarti ada 2 looping,
+   berarti ada 2 fungsi rekursif yang saling berkaitan.
