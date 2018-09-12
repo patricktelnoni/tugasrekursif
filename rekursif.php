@@ -1,7 +1,7 @@
 <?php
 
 function rekursif($i){
-  echo "$i <br>";
+  echo "* <br>";
   $i--;
   if($i>0)
     rekursif($i);
